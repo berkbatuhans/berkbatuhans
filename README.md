@@ -24,7 +24,7 @@ Müşterilerin etkinlik talebi bıraktığı, firmaların teklif verdiği ve tar
 - 📦 **Altyapı:** Docker · Linux · Nginx · Cloudflare · GitHub Actions
 - 📱 **Mobil:** Flutter · Dart · iOS
 
-> 🧩 **İlgi alanlarım:** pazaryeri entegrasyonları (Trendyol · Hepsiburada), SIP/VoIP altyapıları, AI destekli otomasyonlar
+> 🧩 **İlgi alanlarım:** SIP/VoIP altyapıları, AI destekli otomasyonlar
 
 ### 💼 Deneyim
 
